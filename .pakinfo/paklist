@@ -1,4 +1,5 @@
 copy AUTHOR.txt
+copy README.md
 copy sound/null.wav
 convert_opus sound/ambient/30-60HzHum.flac
 convert_opus sound/ambient/drone1.flac
