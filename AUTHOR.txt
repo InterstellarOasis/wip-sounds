@@ -24,6 +24,7 @@
 "junggle" [http://www.freesound.org/usersViewSingle.php?id=128404]
 "J.Zazvurek" [http://www.freesound.org/usersViewSingle.php?id=199526]
 "LAGtheNoggin" [http://www.freesound.org/usersViewSingle.php?id=48428]
+"Maximilian “Viech” Stahlberg" <viech@unvanquished.net>
 "Mike Koenig"
 "Mike “Merancapeman” Mcquery" <thewizerdofmerancape@hotmail.com>
 "Nathanshadow" [http://www.freesound.org/usersViewSingle.php?id=731]
