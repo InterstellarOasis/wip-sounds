@@ -87,6 +87,8 @@ convert_opus sound/buildables/reactor/attack1.flac
 convert_opus sound/buildables/reactor/idle1.flac
 convert_opus sound/buildables/repeater/idle1.flac
 convert_opus sound/buildables/repeater/use.flac
+convert_opus sound/buildables/rocketpod/firing.flac
+convert_opus sound/buildables/rocketpod/lockon.flac
 convert_opus sound/buildables/telenode/construct1.flac
 convert_opus sound/buildables/tesla/tesla_fire.flac
 convert_opus sound/buildables/trapper/attack1.flac
@@ -332,6 +334,8 @@ ignore sound/buildables/reactor/attack1.vorbiscomment
 ignore sound/buildables/reactor/idle1.vorbiscomment
 ignore sound/buildables/repeater/idle1.vorbiscomment
 ignore sound/buildables/repeater/use.vorbiscomment
+ignore sound/buildables/rocketpod/firing.vorbiscomment
+ignore sound/buildables/rocketpod/lockon.vorbiscomment
 ignore sound/buildables/telenode/construct1.vorbiscomment
 ignore sound/buildables/tesla/tesla_fire.vorbiscomment
 ignore sound/buildables/trapper/attack1.vorbiscomment
