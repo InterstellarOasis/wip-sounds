@@ -3,6 +3,8 @@ copy README.md
 copy sound/feedback/beacon-tag-owned.ogg
 copy sound/feedback/beacon-tag.ogg
 copy sound/feedback/beacon-target-lost.ogg
+copy sound/feedback/beacon-timer-expired.ogg
+copy sound/feedback/beacon.ogg
 copy sound/null.wav
 convert_opus sound/ambient/30-60HzHum.flac
 convert_opus sound/ambient/drone1.flac
@@ -347,6 +349,8 @@ ignore sound/buildables/trapper/pain2.vorbiscomment
 ignore sound/feedback/beacon-tag-owned.vorbiscomment
 ignore sound/feedback/beacon-tag.vorbiscomment
 ignore sound/feedback/beacon-target-lost.vorbiscomment
+ignore sound/feedback/beacon-timer-expired.vorbiscomment
+ignore sound/feedback/beacon.vorbiscomment
 ignore sound/feedback/hit.vorbiscomment
 ignore sound/misc/alien_talk.vorbiscomment
 ignore sound/misc/disconnect.vorbiscomment
