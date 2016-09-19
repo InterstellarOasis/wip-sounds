@@ -1,5 +1,8 @@
 copy AUTHOR.txt
 copy README.md
+copy sound/feedback/beacon-tag-owned.ogg
+copy sound/feedback/beacon-tag.ogg
+copy sound/feedback/beacon-target-lost.ogg
 copy sound/null.wav
 convert_opus sound/ambient/30-60HzHum.flac
 convert_opus sound/ambient/drone1.flac
@@ -341,6 +344,9 @@ ignore sound/buildables/tesla/tesla_fire.vorbiscomment
 ignore sound/buildables/trapper/attack1.vorbiscomment
 ignore sound/buildables/trapper/pain1.vorbiscomment
 ignore sound/buildables/trapper/pain2.vorbiscomment
+ignore sound/feedback/beacon-tag-owned.vorbiscomment
+ignore sound/feedback/beacon-tag.vorbiscomment
+ignore sound/feedback/beacon-target-lost.vorbiscomment
 ignore sound/feedback/hit.vorbiscomment
 ignore sound/misc/alien_talk.vorbiscomment
 ignore sound/misc/disconnect.vorbiscomment
